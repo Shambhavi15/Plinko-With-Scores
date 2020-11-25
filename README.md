@@ -1,1 +1,2 @@
-# Plinko-With-Scores
+# Plinko With Scores
+Applying the concept of debugging 
